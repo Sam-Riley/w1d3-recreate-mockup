@@ -1,0 +1,19 @@
+* {
+box-sizing: border box;
+
+}
+body {
+text-align: center;
+}
+
+
+.box {
+background-color: red;
+width: 30vw;
+height: 30vw;
+margin: 20px;
+/*position: center;*/
+display: inline-block;
+
+
+}
